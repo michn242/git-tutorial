@@ -1,1 +1,1 @@
-Git Tutorial Noah Michek
+Git Tutorial Noah Michel
